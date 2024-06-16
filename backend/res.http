@@ -1,0 +1,4 @@
+GET http://localhost:8070/student_register/get/628402f0e1bb3dafe5698cff
+
+###
+GET http://localhost:8070/student_register/
